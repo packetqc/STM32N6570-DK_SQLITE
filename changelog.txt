@@ -1,0 +1,35 @@
+3.0.5
+- Update to STM32CubeMX 6.16.0
+- Update to Firmware Package FW_N6 V1.3.0
+- Enable support for "Run target" in TouchGFX Designer
+
+3.0.4
+- Update to TouchGFX 4.26.0
+
+3.0.3
+- Update to STM32CubeMX 6.15.0
+- Update to Firmware Package FW_N6 V1.2.0
+
+3.0.2
+- Change to from execute in place to "Load and Run" (LRUN). Instructions to revert to "Execute In Place" (XIP) in readme.
+- Enlarge usable internal RAM by including CACHEAXI and VENCRAM as user addressable memory
+- Update to Firmware Package FW_N6 V1.1.1
+- Enable MCU load measurement
+- Debugging via attach to target is enabled without having to set the boot1 switch in programming mode
+- When choosing to debug the FSBL, it is possible to continue debugging into the secure application
+
+3.0.1
+- Update to TouchGFX 4.25.0
+- Update to STM32CubeMX 6.14.0
+- Update to Firmware Package FW_N6 V1.1.0
+- Add PSRAM to linker scripts
+- Sign applcation with header v2.3
+- Use HCLK for XSPI1 and XSPI, to make reboot easier
+
+3.0.0
+First released version
+- TouchGFX 4.24.2
+- STM32CubeMX 6.13.0
+- Firmware FW_N6 V1.0.0
+- Support for STM32CubeIDE
+- Support for EWARM

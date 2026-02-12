@@ -1,0 +1,46 @@
+# CubeMX
+.mxproject
+backup_*.ioc
+
+# TouchGFX
+Appli*/TouchGFX/*_backup.touchgfx
+Appli*/TouchGFX/build/
+Appli*/TouchGFX/config/
+Appli*/TouchGFX/generated/
+Appli*/TouchGFX/simulator/
+Appli*/TouchGFX/target.config
+Appli*/Middlewares/ST/touchgfx/
+Appli*/Middlewares/ST/touchgfx_components/
+Appli*/Middlewares/ST/touchgfx_backup*/
+FSBL/TouchGFX/build/
+gcc/*.o
+
+# IAR
+EWARM/settings/
+EWARM/Appli*/settings/
+EWARM/Appli*/STM32*/
+EWARM/Appli*/*.dep
+EWARM/Appli*/*.ewt
+EWARM/FSBL/settings/
+EWARM/FSBL/STM32*/
+EWARM/FSBL/*.dep
+EWARM/FSBL/*.ewt
+
+# CubeIDE
+STM32CubeIDE/.settings/
+STM32CubeIDE/Appli*/.settings/
+STM32CubeIDE/Appli*/Debug/
+STM32CubeIDE/Appli*/Release/
+STM32CubeIDE/FSBL/.settings/
+STM32CubeIDE/FSBL/Debug/
+STM32CubeIDE/FSBL/Release/
+
+# Secure_nsclib
+Secure_nsclib/Project-trusted.bin
+Secure_nsclib/STM32N6570-DK*
+Secure_nsclib/*.o
+
+# CMake
+build/*
+Appli*/build/
+FSBL/build/

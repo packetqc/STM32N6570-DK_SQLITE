@@ -1,0 +1,799 @@
+ITTIA DB EVALUATION LICENSE AGREEMENT
+=====================================
+
+THIS IS A BINDING LICENSE AGREEMENT BETWEEN YOU AND ITTIA L.L.C. FOR THE
+ACCOMPANYING ITTIA DATABASE SOFTWARE AND ANY RELATED DOCUMENTATION FOR
+TIME-LIMITED EVALUATION. BY DOWNLOADING AND INSTALLING, YOU (ON BEHALF
+OF YOURSELF OR AS AN AUTHORIZED REPRESENTATIVE OR ON BEHALF OF AN
+ENTITY) AGREE TO ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT
+REGARDING YOUR USE OF THE DATABASE SOFTWARE. IF YOU DO NOT AGREE, DELETE
+AND DESTROY THE DATABASE SOFTWARE AND DO NOT PROCEED.
+
+1.  NOTICE. This is a legal evaluation license ("Agreement") between you
+    ("LICENSEE") and ITTIA L.L.C, a Washington Limited Liability Company
+    ("ITTIA"). By installing, copying, or otherwise using the Database
+    Software accompanying this Agreement, which includes computer
+    software and "online" or electronic documentation, associated media,
+    benchmarks, and printed materials, you agree to be bound by the
+    terms and conditions of this Agreement. The right to use the
+    Database Software is time limited. All rights granted to LICENSEE in
+    this Agreement will be void after the end of the evaluation period,
+    which is no later than 45 days after LICENSEE received the Database
+    Software.
+
+2.  SUBJECT MATTER OF THE LICENSE. This Agreement is a novation of all
+    prior agreements, and integration of all proposals and
+    representations between ITTIA and LICENSEE, regarding all ITTIA
+    software in your possession for evaluation, including the contents
+    of any sealed media package(s), earlier releases of the software,
+    all accompanying written materials, whether contained in manuals,
+    sealed media package(s) or otherwise (hereafter referred to as
+    "Database Software").
+
+3.  LICENSE TO EVALUATE. ITTIA grants LICENSEE a limited, non-exclusive,
+    non-assignable, non-transferable license to make and use copies of
+    the Database Software for the sole purpose of evaluating the
+    Database Software. This license offers the right to evaluate the
+    Database Software for the development of computer programs in
+    compiled, linked, executable form ("Product"), provided the Product
+    that includes the Database Software does not constitute a database
+    management system that could be used to commercially compete with
+    the Database Software. LICENSEE shall not use the Database Software,
+    or any portion thereof, for any production or commercial purpose,
+    only for evaluation. LICENSEE shall not distribute this software, in
+    any form, to any third party for any reason unless this distribution
+    is specifically approved by ITTIA in writing.
+
+4.  BENCHMARK TESTING. LICENSEE shall not disclose the results of any
+    benchmark test of the Database Software to any third party without
+    ITTIA's prior written approval. Benchmark testing shall be performed
+    only for LICENSEES’ internal analysis and decision-making and shall
+    not be done on behalf of any third parties nor for any other
+    reasons.
+
+5.  OTHER RESTRICTIONS. The license(s) granted herein are personal to
+    the LICENSEE specified during the evaluation period. The LICENSEE
+    may be an individual or organization. The LICENSEE may be a division
+    or subsidiary of a larger organization or the affiliate of a smaller
+    organization. Additional licenses for development and distribution
+    by the LICENSEE or its affiliates must be separately obtained from
+    ITTIA. LICENSEE may not develop (beyond prototypes), use, reproduce,
+    modify, distribute, disclose, or transfer the Database Software
+    except as allowed by this license Agreement. LICENSEE may not sell,
+    sublicense, rent, lease, assign, give, or otherwise transfer any
+    part of the Database Software or this license. LICENSEE may not
+    retain copies, even of prior versions of the Database Software,
+    after the termination of this license. LICENSEE's obligations under
+    this Agreement survive any termination of the licenses granted by
+    this Agreement. You shall not distribute any software statically or
+    dynamically linked with the Database Software.
+
+6.  REVERSE ENGINEERING. As the LICENSEE, you shall not reverse
+    engineer, disassemble, or decompile the Database Software, or
+    otherwise attempt to discover the source code, if provided, of the
+    Database Software, except where expressly permitted by the
+    applicable law to obtain compatibility with other software programs,
+    and only after prior written notification and approval by ITTIA.
+
+7.  DATABASE SOFTWARE ACCESS. Access to the Database Software shall be
+    limited to employees and contractors of LICENSEE who require access
+    to the Database Software for the purposes of evaluation and will
+    ensure the confidentiality of any information they garner during the
+    evaluation. LICENSEE agrees that any breach by any employee or
+    contractor of such employee's and contractor's obligations under
+    this confidentiality clause shall also constitute a breach by
+    LICENSEE hereunder. LICENSEE shall maintain and, upon ITTIA's
+    reasonable request, provide to ITTIA, the names of all employees and
+    contractors who have had access to the Database Software.
+
+8.  OWNERSHIP AND INTELLECTUAL PROPERTY RIGHTS. The Database Software is
+    owned by ITTIA and is protected by national intellectual laws and
+    international treaty provisions. The Database Software contains
+    proprietary information. Therefore, you must protect the Database
+    Software like any other material protected by intellectual property
+    laws (such as copyright, patent, and/or trade secret), ensuring that
+    anyone with access to the Database Software refrains from
+    unauthorized reproduction, use, or disclosure. ITTIA retains all
+    rights not expressly granted. No title, property rights, or
+    copyright in the Database Software or in any modifications to the
+    Database Software shall pass to the LICENSEE under any
+    circumstances. LICENSEE may not remove, obscure, or alter any
+    copyright, trademark, patent, trade secret, confidential, or other
+    proprietary notices on or in the Database Software. If provided,
+    ITTIA DB Console is a supplementary license for the Database
+    Software and includes free open-source third-party components.
+
+9.  TERMINATION. This license is granted for evaluation purposes only.
+    All grants of license herein expire 45 days after receiving the
+    Database Software. After this date, you must either purchase the
+    software license with the appropriate license agreement, request and
+    receive an extension of this evaluation license from ITTIA or
+    destroy all copies of the Database Software and all derivative
+    works. The license granted herein may also be terminated by
+    returning or destroying all copies of the Database Software
+    materials within your control and so notifying ITTIA in writing. The
+    above licenses, including your right to use the Database Software,
+    will terminate automatically if you infringe ITTIA copyrights or
+    breach this Agreement. Termination of your licenses does not affect
+    your obligations under this Agreement.
+
+10. EXPORT AND COMPLIANCE WITH LAWS AND POLICIES. LICENSEE agrees to
+    comply with all applicable laws, regulations, rulings, and executive
+    orders and any other applicable jurisdictions including but not
+    limited to those relating to the export or re-export of the Database
+    Software, and with all applicable international laws which must be
+    complied with in order to protect or preserve ITTIA's copyright(s),
+    trade secrets(s) and other Intellectual Proprietary Rights in and to
+    the Database Software.
+
+11. WARRANTY. THE DATABASE SOFTWARE FOR EVALUATION IS PROVIDED "AS IS"
+    AND WITHOUT ANY WARRANTY OF ANY KIND. ITTIA DISCLAIMS ALL OTHER
+    WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF
+    MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE. NO ORAL OR
+    WRITTEN INFORMATION OR ADVICE GIVEN BY ITTIA, ITS DEALERS,
+    DISTRIBUTORS, AGENTS, OR EMPLOYEES SHALL CREATE A WARRANTY OR IN ANY
+    WAY INCREASE THE SCOPE OF THIS WARRANTY AND THE LICENSEE MAY NOT
+    RELY ON ANY SUCH INFORMATION OR ADVICE.
+
+12. LIABILITY AND INDEMNIFICATION. In no event shall ITTIA’s liability
+    arising out of this agreement exceed the aggregate amount received
+    by ITTIA from LICENSEE under this Agreement. THE WARRANTY AND
+    LIABILITY SPECIFIED IN THIS AGREEMENT ARE FUNDAMENTAL ELEMENTS OF
+    THE BASIS OF THE BARGAIN BETWEEN ITTIA AND THE LICENSEE. ITTIA WOULD
+    NOT BE ABLE TO PROVIDE THE DATABASE SOFTWARE WITHOUT SUCH
+    LIMITATIONS.
+
+13. NON-DISCLOSURE OF CONFIDENTIAL INFORMATION. The parties agree that
+    Confidential Information shall mean information covering the
+    following: (i) pricing of the Database Software (ii) the Database
+    Software, (iii) the technology, ideas, know-how, documentation,
+    processes, algorithms, and trade secrets or associated trademarks
+    with the Database Software, (iv) the LICENSEE's project and business
+    details, disclosed by either of the parties to the other party under
+    this Agreement. Both parties agree to maintain Confidential
+    Information in confidence by using a reasonable degree of care in
+    order to ensure that no unauthorized persons shall have access to
+    the Confidential Information. The parties agree that the terms of
+    this section shall continue in full force and effect irrespective of
+    the expiration or termination of this Agreement for a period of
+    five (5) years from the Effective Date (as specified below) of this
+    Agreement unless otherwise specified in a future agreement between
+    the parties. ITTIA and LICENSEE further agree that each party shall
+    protect the existence and terms of this Agreement, including
+    information about the evaluation of the Database Software in
+    LICENSEE's business and terms around such use, as Confidential
+    Information. Confidential Information shall not include that
+    information which (i) becomes part of the public domain through no
+    breach by any of the parties; (ii) is independently developed
+    without the use of Confidential Information; or (iii) is rightfully
+    disclosed by a third party.
+
+14. TECHNICAL SUPPORT. During the evaluation period, technical support
+    by email and telephone is available on a first-come, first-served,
+    best efforts basis.
+
+15. U.S. GOVERNMENT RESTRICTED RIGHTS. Database Software and related
+    documentation are provided with restricted rights. Use, duplication,
+    or disclosure by the Government is subject to restrictions. The
+    Database software provided under this Agreement is commercial
+    computer software programs and documentation developed exclusively
+    at private expense. When Database Software is acquired by or on
+    behalf of the Department of Defense, use, disclosure, modification,
+    distribution, and reproduction are subject to the standard
+    limitations and restrictions set forth in the body of this
+    Agreement, and as permitted by DFAR 227.7202-1. If Database Software
+    is acquired by other U.S. Government agencies or on their behalf,
+    the Database Software is furnished with Limited and Restricted
+    Rights as otherwise set forth herein, or as set forth in FAR
+    52.227-19(b)(1) and (2) as may be required.
+
+16. SEVERABILITY. Whenever possible, each provision of this Agreement
+    shall be interpreted in such a manner as to be valid and effective
+    under applicable law. If any provision is invalid, the remaining
+    provisions remain enforceable.
+
+17. LAW AND JURISDICTION. The governing law for this Agreement is the
+    law of California State, the U.S.A. and any disputes which have not
+    been capable of resolution by friendly negotiation shall be brought
+    before the Federal Courts in Orange County, California State, USA.
+    The United Nations Convention on the International Sale of Goods
+    does not apply to this Agreement. Any controversy or claim arising
+    out of or relating to this Agreement, or the breach thereof, shall
+    be settled by binding arbitration in Orange County, California under
+    the Commercial Arbitration Rules of the American Arbitration
+    Association by one arbitrator appointed in accordance with said
+    rules. Judgment on the award rendered by the arbitrator may be
+    entered in any court having jurisdiction thereof. Notwithstanding
+    the foregoing, the parties may apply to any court of competent
+    jurisdiction for injunctive relief without breach of this
+    arbitration provision. If any provision or provisions of this
+    Agreement are determined to be invalid, illegal, or unenforceable,
+    the validity, legality, and enforceability of the remaining
+    provisions of this Agreement will not in any way be affected or
+    impaired thereby. The prevailing party in such a proceeding will be
+    entitled to recover its costs and expenses, including reasonable
+    attorney's fees.
+
+
+R:03.14.2023
+
+THIRD-PARTY SOFTWARE
+====================
+
+ITTIA DB CONSOLE
+----------------
+
+ITTIA DB Console is an optional software component that extends the
+capabilities of the Database Software and which "Open Source Software" or
+"OSS" which refers to any software that contains or is derived in any
+manner (in whole or in part) from any software that is distributed as
+open source code pursuant to an OSS License or similar distribution
+models, including, but not limited to, software subject to a license
+published by the Open Source Initiative (http://opensource.org/).
+
+Before using ITTIA DB Console LICENSEE shall review and agree to the
+special third-party licenses set out in the following by third-party
+vendors that their software is included with ITTIA DB Console. All Open
+Source Software delivered as part of ITTIA DB Console is also subject to
+the relevant third-party OSS License (including any proprietary notices,
+disclaimers, requirements and/or extended use rights outlined in such
+OSS License, to the extent applicable) and in the event of any conflict
+between the terms of this Agreement and the OSS License for the specific
+use case, then the OSS license shall prevail with respect to the
+specific third-party Open Source Software.
+
+THIRD-PARTY OPEN-SOURCE SOFTWARE LICENSING CONSIDERATIONS
+---------------------------------------------------------
+
+
+Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) 2021-present Tanner Linsley
+Copyright (c) 2019 Alexander Reardon
+Copyright (c) 2018 Jed Watson
+Copyright (c) 2014-present Sebastian McKenzie and other contributors
+Copyright (c) 2015 Jason Quense
+Copyright (c) 2014-present Stephen J. Collings, Matthew Honnibal, Pieter Vanderwerff
+Copyright (c) 2015 react-bootstrap
+Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
+Copyright (c) 2019 Federico Zivolo
+Copyright (c) 2013-present, Facebook, Inc.
+Copyright (c) 2019 Paul Henschel
+Copyright 2018 Fonticons, Inc.
+Copyright (c) 2020 Colin McDonnell
+Copyright (c) 2020 Roland Groza
+Copyright (c) 2015 Andrey Okonetchnikov
+Copyright (c) 2018 Param Aggarwal
+Copyright (c) 2018-present Paul Henschel, react-spring, all contributors
+Copyright (c) Raphaël Benitte
+Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
+Copyright (c) 2015-present recharts
+Copyright (c) 2020 Michael Mclaughlin
+Copyright (c) 2015 Sen Yang
+Copyright (c) 2017 Tony Quetano
+Copyright (c) 2014 Arnout Kazemier
+Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
+Copyright (c) 2009-2022 Jeremy Ashkenas, Julian Gonggrijp, and DocumentCloud and Investigative Reporters & Editors
+Copyright 2010-2022 Mike Bostock
+Copyright (c) 2011-2023 The Bootstrap Authors
+Copyright OpenJS Foundation and other contributors, https://openjsf.org/
+Copyright (c) 2014-present Matt Zabriskie
+Copyright (c) 2011-2022 Twitter, Inc.
+Copyright (c) 2016-2020 - BootstrapVue
+Copyright (c) 2018 Chart.js Contributors
+Copyright (c) 2017 Thorsten Lünborg
+Copyright (c) 2013 Roman Shtylman <shtylman@gmail.com>
+Copyright (c) 2013-present, Yuxi (Evan) You
+Copyright (c) 2016 Jakub Juszczak
+Copyright (c) 2017 Alex Regan
+Copyright (c) 2015-present Yuxi (Evan) You
+Copyright (c) 2013-present Evan You
+Copyright (c) 2013-2020 The CivetWeb developers ([CREDITS.md](https://github.com/civetweb/civetweb/blob/master/CREDITS.md))
+Copyright (c) Electron contributors
+Copyright (c) 2013-2020 GitHub Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+Copyright (c) 2017, Mapbox
+Copyright 2018 Observable, Inc.
+
+Permission to use, copy, modify, and/or distribute this software for any purpose
+with or without fee is hereby granted, provided that the above copyright notice
+and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS
+OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
+THIS SOFTWARE.
+
+
+Copyright 2010-2016 Mike Bostock
+Copyright (c) 2018, React Community
+Forked from React (https://github.com/facebook/react) Copyright 2013-present, Facebook, Inc.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+* Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
+
+* Neither the name of the copyright holder nor the names of its
+  contributors may be used to endorse or promote products derived from
+  this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+Copyright (c) Microsoft Corporation.
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+   "Legal Entity" shall mean the union of the acting entity and all
+   other entities that control, are controlled by, or are under common
+   control with that entity. For the purposes of this definition,
+   "control" means (i) the power, direct or indirect, to cause the
+   direction or management of such entity, whether by contract or
+   otherwise, or (ii) ownership of fifty percent (50%) or more of the
+   outstanding shares, or (iii) beneficial ownership of such entity.
+
+   "You" (or "Your") shall mean an individual or Legal Entity
+   exercising permissions granted by this License.
+
+   "Source" form shall mean the preferred form for making modifications,
+   including but not limited to software source code, documentation
+   source, and configuration files.
+
+   "Object" form shall mean any form resulting from mechanical
+   transformation or translation of a Source form, including but
+   not limited to compiled object code, generated documentation,
+   and conversions to other media types.
+
+   "Work" shall mean the work of authorship, whether in Source or
+   Object form, made available under the License, as indicated by a
+   copyright notice that is included in or attached to the work
+   (an example is provided in the Appendix below).
+
+   "Derivative Works" shall mean any work, whether in Source or Object
+   form, that is based on (or derived from) the Work and for which the
+   editorial revisions, annotations, elaborations, or other modifications
+   represent, as a whole, an original work of authorship. For the purposes
+   of this License, Derivative Works shall not include works that remain
+   separable from, or merely link (or bind by name) to the interfaces of,
+   the Work and Derivative Works thereof.
+
+   "Contribution" shall mean any work of authorship, including
+   the original version of the Work and any modifications or additions
+   to that Work or Derivative Works thereof, that is intentionally
+   submitted to Licensor for inclusion in the Work by the copyright owner
+   or by an individual or Legal Entity authorized to submit on behalf of
+   the copyright owner. For the purposes of this definition, "submitted"
+   means any form of electronic, verbal, or written communication sent
+   to the Licensor or its representatives, including but not limited to
+   communication on electronic mailing lists, source code control systems,
+   and issue tracking systems that are managed by, or on behalf of, the
+   Licensor for the purpose of discussing and improving the Work, but
+   excluding communication that is conspicuously marked or otherwise
+   designated in writing by the copyright owner as "Not a Contribution."
+
+   "Contributor" shall mean Licensor and any individual or Legal Entity
+   on behalf of whom a Contribution has been received by Licensor and
+   subsequently incorporated within the Work.
+
+2. Grant of Copyright License. Subject to the terms and conditions of
+   this License, each Contributor hereby grants to You a perpetual,
+   worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+   copyright license to reproduce, prepare Derivative Works of,
+   publicly display, publicly perform, sublicense, and distribute the
+   Work and such Derivative Works in Source or Object form.
+
+3. Grant of Patent License. Subject to the terms and conditions of
+   this License, each Contributor hereby grants to You a perpetual,
+   worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+   (except as stated in this section) patent license to make, have made,
+   use, offer to sell, sell, import, and otherwise transfer the Work,
+   where such license applies only to those patent claims licensable
+   by such Contributor that are necessarily infringed by their
+   Contribution(s) alone or by combination of their Contribution(s)
+   with the Work to which such Contribution(s) was submitted. If You
+   institute patent litigation against any entity (including a
+   cross-claim or counterclaim in a lawsuit) alleging that the Work
+   or a Contribution incorporated within the Work constitutes direct
+   or contributory patent infringement, then any patent licenses
+   granted to You under this License for that Work shall terminate
+   as of the date such litigation is filed.
+
+4. Redistribution. You may reproduce and distribute copies of the
+   Work or Derivative Works thereof in any medium, with or without
+   modifications, and in Source or Object form, provided that You
+   meet the following conditions:
+
+   (a) You must give any other recipients of the Work or
+       Derivative Works a copy of this License; and
+
+   (b) You must cause any modified files to carry prominent notices
+       stating that You changed the files; and
+
+   (c) You must retain, in the Source form of any Derivative Works
+       that You distribute, all copyright, patent, trademark, and
+       attribution notices from the Source form of the Work,
+       excluding those notices that do not pertain to any part of
+       the Derivative Works; and
+
+   (d) If the Work includes a "NOTICE" text file as part of its
+       distribution, then any Derivative Works that You distribute must
+       include a readable copy of the attribution notices contained
+       within such NOTICE file, excluding those notices that do not
+       pertain to any part of the Derivative Works, in at least one
+       of the following places: within a NOTICE text file distributed
+       as part of the Derivative Works; within the Source form or
+       documentation, if provided along with the Derivative Works; or,
+       within a display generated by the Derivative Works, if and
+       wherever such third-party notices normally appear. The contents
+       of the NOTICE file are for informational purposes only and
+       do not modify the License. You may add Your own attribution
+       notices within Derivative Works that You distribute, alongside
+       or as an addendum to the NOTICE text from the Work, provided
+       that such additional attribution notices cannot be construed
+       as modifying the License.
+
+   You may add Your own copyright statement to Your modifications and
+   may provide additional or different license terms and conditions
+   for use, reproduction, or distribution of Your modifications, or
+   for any such Derivative Works as a whole, provided Your use,
+   reproduction, and distribution of the Work otherwise complies with
+   the conditions stated in this License.
+
+5. Submission of Contributions. Unless You explicitly state otherwise,
+   any Contribution intentionally submitted for inclusion in the Work
+   by You to the Licensor shall be under the terms and conditions of
+   this License, without any additional terms or conditions.
+   Notwithstanding the above, nothing herein shall supersede or modify
+   the terms of any separate license agreement you may have executed
+   with Licensor regarding such Contributions.
+
+6. Trademarks. This License does not grant permission to use the trade
+   names, trademarks, service marks, or product names of the Licensor,
+   except as required for reasonable and customary use in describing the
+   origin of the Work and reproducing the content of the NOTICE file.
+
+7. Disclaimer of Warranty. Unless required by applicable law or
+   agreed to in writing, Licensor provides the Work (and each
+   Contributor provides its Contributions) on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+   implied, including, without limitation, any warranties or conditions
+   of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+   PARTICULAR PURPOSE. You are solely responsible for determining the
+   appropriateness of using or redistributing the Work and assume any
+   risks associated with Your exercise of permissions under this License.
+
+8. Limitation of Liability. In no event and under no legal theory,
+   whether in tort (including negligence), contract, or otherwise,
+   unless required by applicable law (such as deliberate and grossly
+   negligent acts) or agreed to in writing, shall any Contributor be
+   liable to You for damages, including any direct, indirect, special,
+   incidental, or consequential damages of any character arising as a
+   result of this License or out of the use or inability to use the
+   Work (including but not limited to damages for loss of goodwill,
+   work stoppage, computer failure or malfunction, or any and all
+   other commercial damages or losses), even if such Contributor
+   has been advised of the possibility of such damages.
+
+9. Accepting Warranty or Additional Liability. While redistributing
+   the Work or Derivative Works thereof, You may choose to offer,
+   and charge a fee for, acceptance of support, warranty, indemnity,
+   or other liability obligations and/or rights consistent with this
+   License. However, in accepting such obligations, You may act only
+   on Your own behalf and on Your sole responsibility, not on behalf
+   of any other Contributor, and only if You agree to indemnify,
+   defend, and hold each Contributor harmless for any liability
+   incurred by, or claims asserted against, such Contributor by reason
+   of your accepting any such warranty or additional liability.
+
+END OF TERMS AND CONDITIONS
+
+APPENDIX: How to apply the Apache License to your work.
+
+   To apply the Apache License to your work, attach the following
+   boilerplate notice, with the fields enclosed by brackets "[]"
+   replaced with your own identifying information. (Don't include
+   the brackets!)  The text should be enclosed in the appropriate
+   comment syntax for the file format. We also recommend that a
+   file or class name and description of purpose be included on the
+   same "printed page" as the copyright notice for easier
+   identification within third-party archives.
+
+Copyright 2019 Adobe
+Copyright 2002 Cynthia Brewer, Mark Harrower, and The Pennsylvania State University
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+
+Font Awesome Free is free, open source, and GPL friendly. You can use it for
+commercial projects, open source projects, or really almost whatever you want.
+Full Font Awesome Free license: https://fontawesome.com/license/free.
+
+# Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+The Font Awesome Free download is licensed under a Creative Commons
+Attribution 4.0 International License and applies to all icons packaged
+as SVG and JS file types.
+
+# Fonts: SIL OFL 1.1 License
+In the Font Awesome Free download, the SIL OFL license applies to all icons
+packaged as web and desktop font files.
+
+Copyright (c) 2023 Fonticons, Inc. (https://fontawesome.com)
+with Reserved Font Name: "Font Awesome".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+SIL Open Font License
+
+Version 1.1 - 26 February 2007
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting — in part or in whole — any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+
+OPENSSL LICENSE
+
+Copyright (c) 1998-2019 The OpenSSL Project.  All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in
+   the documentation and/or other materials provided with the
+   distribution.
+
+3. All advertising materials mentioning features or use of this
+   software must display the following acknowledgment:
+   "This product includes software developed by the OpenSSL Project
+   for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+
+4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
+   endorse or promote products derived from this software without
+   prior written permission. For written permission, please contact
+   openssl-core@openssl.org.
+
+5. Products derived from this software may not be called "OpenSSL"
+   nor may "OpenSSL" appear in their names without prior written
+   permission of the OpenSSL Project.
+
+6. Redistributions of any form whatsoever must retain the following
+   acknowledgment:
+   "This product includes software developed by the OpenSSL Project
+   for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+
+THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY
+EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR
+ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGE.
+====================================================================
+
+This product includes cryptographic software written by Eric Young
+(eay@cryptsoft.com).  This product includes software written by Tim
+Hudson (tjh@cryptsoft.com).
+
+
+SSLeay License
+
+Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
+All rights reserved.
+
+This package is an SSL implementation written
+by Eric Young (eay@cryptsoft.com).
+The implementation was written so as to conform with Netscapes SSL.
+
+This library is free for commercial and non-commercial use as long as
+the following conditions are aheared to.  The following conditions
+apply to all code found in this distribution, be it the RC4, RSA,
+lhash, DES, etc., code; not just the SSL code.  The SSL documentation
+included with this distribution is covered by the same copyright terms
+except that the holder is Tim Hudson (tjh@cryptsoft.com).
+
+Copyright remains Eric Young's, and as such any Copyright notices in
+the code are not to be removed.
+If this package is used in a product, Eric Young should be given attribution
+as the author of the parts of the library used.
+This can be in the form of a textual message at program startup or
+in documentation (online or textual) provided with the package.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+1. Redistributions of source code must retain the copyright
+   notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+3. All advertising materials mentioning features or use of this software
+   must display the following acknowledgement:
+   "This product includes cryptographic software written by
+    Eric Young (eay@cryptsoft.com)"
+   The word 'cryptographic' can be left out if the rouines from the library
+   being used are not cryptographic related :-).
+4. If you include any Windows specific code (or a derivative thereof) from
+   the apps directory (application code) you must include an acknowledgement:
+   "This product includes software written by Tim Hudson (tjh@cryptsoft.com)"
+
+THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.
+
+The licence and distribution terms for any publically available version or
+derivative of this code cannot be changed.  i.e. this code cannot simply be
+copied and put under another distribution licence
+[including the GNU Public Licence.]

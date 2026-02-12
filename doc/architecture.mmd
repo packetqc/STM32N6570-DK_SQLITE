@@ -1,0 +1,47 @@
+%%{init: {'theme': 'neutral', 'themeVariables': {'fontSize': '14px'}}}%%
+flowchart LR
+    subgraph GEN["1 - Generate"]
+        SIM(["Simulator Thread<br/>Priority 15<br/>DS_LOG_STRUCT 224 B"])
+    end
+
+    subgraph BUF["2 - Double Buffer // PSRAM"]
+        direction TB
+        BA["Buffer A<br/>16384 logs // 3.6 MB"]
+        BB["Buffer B<br/>16384 logs // 3.6 MB"]
+    end
+
+    subgraph ING["3 - Ingest"]
+        direction TB
+        TX["BEGIN TRANSACTION"]
+        BIND["bindAndStep x16384<br/>prepared stmt // SQLITE_STATIC"]
+        CM["COMMIT"]
+        TX --> BIND --> CM
+    end
+
+    subgraph SQL["4 - SQLite Engine"]
+        direction TB
+        WAL["WAL // synchronous = OFF<br/>locking = EXCLUSIVE"]
+        MEM["Heap 1 MB // memsys5<br/>Page Cache 4 MB // ~965 pages"]
+    end
+
+    subgraph SD["5 - SD Card"]
+        DB[("logs.db<br/>SDMMC2 / FileX")]
+    end
+
+    SIM -- "captureLog()" --> BUF
+    BUF -- "READY 0x01 / 0x02" --> ING
+    ING -. "FREE 0x04 / 0x08" .-> BUF
+    ING -- "sqlite3_step()" --> SQL
+    SQL -- "WAL write + checkpoint" --> SD
+
+    classDef genStyle fill:#2563eb,stroke:#1e40af,color:#fff
+    classDef bufStyle fill:#7c3aed,stroke:#5b21b6,color:#fff
+    classDef ingStyle fill:#d97706,stroke:#b45309,color:#fff
+    classDef sqlStyle fill:#dc2626,stroke:#b91c1c,color:#fff
+    classDef sdStyle fill:#4b5563,stroke:#374151,color:#fff
+
+    class SIM genStyle
+    class BA,BB bufStyle
+    class TX,BIND,CM ingStyle
+    class WAL,MEM sqlStyle
+    class DB sdStyle

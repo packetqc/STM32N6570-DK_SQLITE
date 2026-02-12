@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stm32n6xx_hal.h": "c",
+        "stm32n6xx_hal_conf.h": "c",
+        "stm32n6xx.h": "c",
+        "core_cm55.h": "c"
+    }
+}
