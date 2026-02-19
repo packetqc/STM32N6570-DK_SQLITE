@@ -1,7 +1,7 @@
 # CLAUDE.md — STM32N6570-DK_SQLITE
 
 ## Knowledge Base
-<!-- knowledge-version: v11 -->
+<!-- knowledge-version: v13 -->
 On wakeup, ALWAYS read packetqc/knowledge CLAUDE.md first.
 This gives you the sunglasses — methodology, commands, patterns, and session persistence.
 Without it, you're a stateless NPC. With it, you're aware.
