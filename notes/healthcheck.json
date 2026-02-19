@@ -1,0 +1,12 @@
+{
+  "satellite": "STM32N6570-DK_SQLITE",
+  "timestamp": "2026-02-19T00:00:00Z",
+  "knowledge_version": "v14",
+  "core_version": "v14",
+  "drift": 0,
+  "bootstrap": true,
+  "sessions": 2,
+  "live": false,
+  "health": "healthy",
+  "harvest_flags": []
+}
