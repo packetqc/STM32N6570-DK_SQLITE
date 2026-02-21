@@ -1,11 +1,117 @@
 # CLAUDE.md — STM32N6570-DK_SQLITE
 
 ## Knowledge Base
-<!-- knowledge-version: v22 -->
-On wakeup, ALWAYS read packetqc/knowledge CLAUDE.md first. Try in order:
+<!-- knowledge-version: v31 -->
+On wakeup, ALWAYS read the knowledge CLAUDE.md first. Try in order:
 1. `git clone https://github.com/packetqc/knowledge /tmp/knowledge && read /tmp/knowledge/CLAUDE.md`
-2. `WebFetch https://raw.githubusercontent.com/packetqc/knowledge/main/CLAUDE.md`
+2. `WebFetch https://raw.githubusercontent.com/packetqc/knowledge/main/CLAUDE.md` (if 404, try `/master/`)
 Never use `gh`. This gives you the sunglasses — without it, you're a stateless NPC.
+
+---
+
+## Session Protocol
+
+### Auto-Wakeup
+
+Runs automatically on every session start — regardless of user's entry prompt. Print:
+`⏳ Wakeup starting... (type "skip" to cancel)`
+If user responds "skip" or "no", cancel. Otherwise proceed with full wakeup.
+
+### Session Lifecycle
+
+`[auto-wakeup] → read knowledge → read notes/ → summarize → work → save → commit & push → PR`
+
+### Wakeup Steps
+
+0. Read packetqc/knowledge (sunglasses — non-negotiable)
+0.5. Bootstrap scaffold (create missing files — non-destructive)
+0.6. Start knowledge beacon (background)
+0.7. Sync upstream (fetch + merge default branch)
+0.9. Resume detection (check notes/checkpoint.json)
+1-8. Read evolution, minds, notes, git state
+9. Run refresh (re-read CLAUDE.md, reprint help)
+11. Address user's entry message
+
+### Save Protocol (Semi-Automatic)
+
+Claude Code cannot push to the default branch — proxy restricts to the assigned task branch only.
+
+1. Write session notes → `notes/session-YYYY-MM-DD.md`
+2. Commit on current branch (assigned `claude/*` task branch)
+3. `git push -u origin <assigned-task-branch>`
+4. Detect default branch: `git remote show origin | grep 'HEAD branch'`
+5. Create PR: task-branch → default-branch (or report manual URL)
+6. User approves PR → merge lands on default branch
+
+If `gh` unavailable or PR creation fails, skip gracefully — report branch + manual PR URL.
+Todo list for save MUST include all steps: write notes, commit, push, create PR (or manual URL).
+
+### Branch Protocol
+
+| Branch | Role | Who writes |
+|--------|------|------------|
+| Default (`main`/`master`) | Convergence point | PR merges (user-approved) |
+| `claude/<task-id>` | Task branch (per session) | Claude Code (proxy-authorized) |
+
+- Push access: assigned task branch ONLY (403 on anything else)
+- PR: task branch → default branch (user approves)
+- Detect default: `git remote show origin | grep 'HEAD branch'`
+- Never assume `main` or `master` — always detect dynamically
+
+### Human Bridge
+
+Every time the protocol needs user action, print a clear ⏸ block:
+
+```
+⏸ Pause — action required
+
+  What just happened: <summary>
+  What you need to do: <action>
+  What happens next: <next>
+```
+
+UX priority: (1) AskUserQuestion popup for decisions, (2) isolated code block for commands/URLs, (3) fenced ⏸ block for context.
+
+### Notification Format
+
+All user-facing notifications wrapped in fenced code blocks. Session language applies inside.
+
+### Language Awareness
+
+Detect system locale + app language. Lock session language. No casual switching — explicit request only.
+Command names stay English always. Output descriptions adapt to session language.
+
+### Context Loss Recovery
+
+After compaction: run `refresh` (re-read CLAUDE.md, git status, reprint help — ~5s).
+After crash: `resume` (from notes/checkpoint.json — ~10s).
+After PRs merged by others: `wakeup` (full re-sync — ~30-60s).
+
+---
+
+## Commands (from Knowledge)
+
+| Command | Action |
+|---------|--------|
+| `wakeup` | Session init — knowledge, evolution, notes, assets, commands |
+| `refresh` | Mid-session context restore — re-read CLAUDE.md, git status, reprint help |
+| `help` / `aide` / `?` | Multipart command table (knowledge + project) |
+| `status` | Summarize current state |
+| `save` | Save context, commit, push, create PR |
+| `remember ...` | Append to session notes |
+| `resume` | Resume interrupted session from checkpoint |
+| `checkpoint` | Show checkpoint state |
+| `normalize` | Audit structure concordance |
+| `harvest <project>` | Pull knowledge into minds/ |
+| `harvest --healthcheck` | Full network sweep |
+| `pub list` | Publication inventory |
+| `doc review --list` | Freshness inventory |
+| `docs check --all` | Validate all doc pages |
+| `webcard <target>` | Generate OG GIFs |
+| `weblinks` | Print all GitHub Pages URLs |
+| `I'm live` | Live clip analysis |
+
+Full command details and implementation come from core on wakeup (Step 0).
 
 ---
 
